@@ -1,6 +1,4 @@
 #from pickletools import decimalnl_long
-from cProfile import label
-from decimal import Decimal
 from chanim import *
 from manim import *
 config.background_color = WHITE # a mistake that must be done
